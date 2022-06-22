@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+img.navbar-brand {
+    width: 10%;
+    height: 130px;
+    margin-right: 25px;
+}
+
+#escolha {
+    font-size: 20px;
+}
+
+#edit {
+    background-color: black;
+    color: white;
+    text-align: justify;
+    border-radius: 10px;
+}
+
+#logo {
+    width: 150px !important;
+}
+
+.barraPesquisa {
+    width: 25% !important;
+}
+
+body {
+    background-color: black !important;
+}
+
+footer {
+    background-color: #212529;
+    width: 100%;
+}
+#imagem{
+    float: left !important;
+}
+.footertext {
+    margin-top: 15px;
+    align-self: center;
+    color: #ffffff;
+    width: 100%;
+    margin-left: 100px;
+}
